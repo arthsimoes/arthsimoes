@@ -1,1 +1,3 @@
-Sou um estudante de programação do @SENAC, com conhecimentos na linguagem JAVA
+- Sou um estudante de programação do @SENAC, com conhecimentos na linguagem JAVA (back-end);
+- Aperfeiçoando o conhecimento em desenvolvimento WEB/front-end.
+- Contato: 1arthursimoes@gmail.com
